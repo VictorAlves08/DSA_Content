@@ -9,6 +9,7 @@ int main()
     return 0;
 };
 // g++ hello.cpp -o hello
+// g++ *.cpp -o main
 
 /*
  - General Informations
